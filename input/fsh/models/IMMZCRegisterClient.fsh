@@ -30,9 +30,6 @@ Description:  "Data elements for the IMMZ.C Register Client Data Dictionary."
   * ^code[+] = IMMZ.C#DE10
 * caregiver 0..* BackboneElement "Caregiver" "The client's caregiver (person) which could be next of kin (e.g. partner, husband, mother, sibling, etc.)"
   * ^code[+] = IMMZ.C#DE14
-  * name 1..1 string "Caregiver's full name" "The full name of the client's caregiver"
-    * obeys IMMZ-C-name-1
-    * ^code[+] = IMMZ.C#DE15
   * firstName 0..1 string "Caregiver's first name" "First or given name of the client's caregiver"
     * obeys IMMZ-C-name-1
     * ^code[+] = IMMZ.C#DE16
