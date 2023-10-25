@@ -1,0 +1,13 @@
+{
+  "url" : "http://moh.tanzania/ig/smart-immunizations-measles/ImplementationGuide/tanzania.fhir.smart-immunizations-measles",
+  "name" : "SMART",
+  "package-id" : "tanzania.fhir.smart-immunizations-measles",
+  "ig-ver" : "0.1.0",
+  "date" : "Wed, 25 Oct, 2023 14:19:55 +0000",
+  "errs" : 104,
+  "warnings" : 64,
+  "hints" : 19,
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 4176254392
+}
